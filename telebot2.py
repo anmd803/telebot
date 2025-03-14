@@ -1,0 +1,3 @@
+TOKEN ="8035123064:AAF1SlmIvHr1R4tw5U_2MUOB8n4GFodDQR4"  # توكن البوت
+ADMIN_ID = 7938226339  # معرف المشرف
+SYRIATEL_CASH_NUMBER = "0930534650"  # رقم سيرياتيل كاش
